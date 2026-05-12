@@ -7,7 +7,6 @@ A multi-area network design & security simulation project for a university campu
 This project simulates the **BRAC University network** under a coordinated cyber attack scenario.  
 We designed and configured a hierarchical routed network with redundancy, DHCP relay, RIP v2 and failover routes to maintain service availability.
 
-**Topic:** Topic 1 – BRAC University Under Attack  
 **Tools:** Cisco Packet Tracer, Cisco 2901 Routers, 2960-24TT Switches
 
 ---
