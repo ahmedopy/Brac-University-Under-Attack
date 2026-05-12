@@ -11,6 +11,7 @@ We designed and configured a hierarchical routed network with redundancy, DHCP r
 **Tools:** Cisco Packet Tracer, Cisco 2901 Routers, 2960-24TT Switches
 
 ---
+
 ## 🏛️ Network Architecture
 - ✅ **Four campus subnets:** CSE (`10.0.0.0/22`), EEE (`10.0.8.0/22`), MNS (`10.0.12.0/23`), ADMIN (`10.0.14.0/24`)
 - ✅ **Centralized server block:** Web Server, DNS Server, Email Server, DHCP Server (`10.0.15.0/29`)
