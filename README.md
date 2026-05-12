@@ -1,6 +1,6 @@
 # 🛡️ BRAC University Under Attack
 
-> A multi-area network design & security simulation project for a university campus under cyber attack.
+A multi-area network design & security simulation project for a university campus under cyber attack.
 
 ## 📌 Overview
 
