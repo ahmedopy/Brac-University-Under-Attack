@@ -8,7 +8,6 @@ This project simulates the **BRAC University network** under a coordinated cyber
 We designed and configured a hierarchical routed network with redundancy, DHCP relay, RIP v2 and failover routes to maintain service availability.
 
 **Topic:** Topic 1 – BRAC University Under Attack  
-**Group ID:** 309  
 **Tools:** Cisco Packet Tracer, Cisco 2901 Routers, 2960-24TT Switches
 
 ---
@@ -22,6 +21,7 @@ We designed and configured a hierarchical routed network with redundancy, DHCP r
 - ✅ **Static failover routes** (primary/backup)  
 - ✅ **Super PCs** per department  
 - ✅ **WAN links** between routers (serial connections)
+- ✅ **Recursive static routing**
 
 ## ⚙️ How to Run
 
